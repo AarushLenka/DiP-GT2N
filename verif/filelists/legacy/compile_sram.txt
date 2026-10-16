@@ -1,0 +1,8 @@
+rtl/core/pe.sv
+rtl/core/systolic.sv
+rtl/core/error_check.sv
+rtl/legacy/primitives/counter_big.sv
+rtl/legacy/primitives/reg_w.sv
+rtl/core/controller.sv
+rtl/core/datapath.sv
+rtl/core/top_module.sv

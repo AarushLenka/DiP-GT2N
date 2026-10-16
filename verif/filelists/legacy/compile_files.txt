@@ -1,0 +1,17 @@
+rtl/legacy/fpga/button_debouncer.sv
+rtl/legacy/primitives/counter.sv
+rtl/legacy/primitives/counter_2p.sv
+rtl/legacy/primitives/counter_big.sv
+rtl/core/error_check.sv
+rtl/core/pe.sv
+rtl/legacy/primitives/reg_10b.sv
+rtl/legacy/primitives/reg_24b.sv
+rtl/legacy/primitives/reg_2b.sv
+rtl/legacy/primitives/reg_4b.sv
+rtl/legacy/primitives/reg_5b.sv
+rtl/legacy/primitives/reg_8b.sv
+rtl/legacy/primitives/reg_w.sv
+rtl/core/systolic.sv
+rtl/core/controller.sv
+rtl/core/datapath.sv
+rtl/core/top_module.sv
